@@ -1,1 +1,3 @@
 Trabajo en equipo con git
+el interprete ejecuta el código en ese mimo momento y el compilador lo  prepara para su ejecución posterior es decir una vez compilado puedo ejecutarlo cuntas 
+veces quiera y el interpretado cada vez que quiera ejecutarlo tengo que usar el interprete
