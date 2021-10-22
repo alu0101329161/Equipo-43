@@ -3,5 +3,5 @@ Pregunta 1
 el interprete ejecuta el código en ese mimo momento y el compilador lo  prepara para su ejecución posterior es decir una vez compilado puedo ejecutarlo cuntas 
 veces quiera y el interpretado cada vez que quiera ejecutarlo tengo que usar el interprete
 Pregunta 2
-el sh las dos palabras en minicula separafdas por una cama y en el scm son las dos palabras comenzando por mayucula separadas por un espacio y la frase acaba en exclamacuion
-la primera linea indica el terminal que se va a usar /bin/sh
+el sh las dos palabras en minicula separafdas por una coma y en el scm son las dos palabras comenzando por mayucula separadas por un espacio y la frase acaba en exclamacuion
+la primera linea indica el interprete que se va a usar /bin/sh
