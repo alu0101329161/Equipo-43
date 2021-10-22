@@ -1,1 +1,2 @@
-((display "Hello world!"))
+#! /bin/mit-scheme
+(display "Hello world!")
